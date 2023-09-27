@@ -21,6 +21,8 @@ Todas as pessoas que possuem variadas idades com o interesse e curiosidade em fi
 por dentro das notícias e aprender novos assuntos e receitas.
 4. Design e Interface
 4.1 Layout Responsivo
+
+link do site = https://lauratavares2323.github.io/Jornal/index.html 
 Não será possível abrir em telas diferentes do 
 computador
 4.2 Estilo Visual
@@ -28,11 +30,11 @@ O jornal está sendo inspirado em referencias de
 outros jornais conhecidos 
 4.3 Navegação Intuitiva
 Será possível uma navegação fácil e intuitiva 
-5. Considerações Finais
+6. Considerações Finais
 Este documento procura mostrar quais as disposições essenciais do jornal, fornecendo um 
 primeiro momento concreto. Durante e após o fim da produção iremos garantir que todos os 
 requisitos aqui citados tenham sido atendidos.
-6. Referências
+7. Referências
 https://g1.globo.com/
 https://www.terra.com.br/
 https://oglobo.globo.com/
